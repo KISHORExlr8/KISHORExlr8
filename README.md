@@ -69,7 +69,7 @@
 
 ---
 
-### 📊 Profile Summary Cards:
+### 📊 Profile Summary :
 
 <p align="center">
   <a href="https://git.io/streak-stats">
@@ -87,9 +87,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kishorexlr8&show_icons=true&theme=tokyonight" alt="kishorexlr8" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishorexlr8&theme=tokyonight" alt="kishorexlr8" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kishorexlr8&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kishorexlr8" />
