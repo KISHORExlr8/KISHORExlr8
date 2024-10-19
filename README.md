@@ -62,9 +62,14 @@
 ---
 
 ### 📊 Profile Summary Cards:
- align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=KISHORExlr8&theme=ads-juicy-fresh)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=KISHORExlr8&theme=ads-juicy-fresh" alt="GitHub Streak" />
+  </a>
+</p>
+
+
 
 ---
 
