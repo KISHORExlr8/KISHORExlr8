@@ -52,6 +52,11 @@
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge)
 ![Microsoft Word](https://img.shields.io/badge/-Microsoft%20Word-2B579A?logo=microsoft-word&logoColor=white&style=for-the-badge)
 
+#### Badges
+<p align="center">
+  <img src="" alt="AWS badge" width="200"/>
+</p>
+
 ---
 
 ### 🌟 Projects:
