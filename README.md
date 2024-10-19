@@ -1,6 +1,6 @@
 Here's a GitHub README profile template based on your document:
 
-```md
+
 <h1 align="center">Hi there 👋, I'm Kishore Sundaraj</h1>
 <h3 align="center">A passionate Full Stack Developer & Cloud Enthusiast</h3>
 
