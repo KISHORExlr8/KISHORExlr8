@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A Passionate Full Stack Developer & Cloud Enthusiast</h3>
 
 <p align="center">
-  <img src="hacker.gif" alt="Hacker GIF" width="200"/>
+  <img src="gitpic.jpg" alt="Hacker GIF" width="200"/>
 </p>
 
 
