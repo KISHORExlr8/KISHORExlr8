@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm Kishore Sundaraj</h1>
+<h1 align="center">👋 Hi there, I'm Kishore S</h1>
 <h3 align="center">🚀 A Passionate Full Stack Developer & Cloud Enthusiast</h3>
 
 <p align="center">
