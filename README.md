@@ -1,18 +1,18 @@
-<h1 align="center">👋 Hi there, I'm Kishore S</h1>
+<h1 align="center">👋 Hi there, I'm Kishore Su</h1>
 <h3 align="center">🚀 A Passionate Full Stack Developer & Cloud Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kishorexlr8&label=Profile%20views&color=0e75b6&style=flat" alt="kishorexlr8" />
+  <img src="https://komarev.com/ghpvc/?username=kishorexlr8&label=Profile%20views&color=0e75b6&style=flat" alt="kishorexlr8" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me:
 
-- 🔭 **Currently working on:** Cloud Projects  
-- 🌱 **Learning:** AWS, Web Development  
-- 📫 **Reach me at:** [kishoresundaraj8@gmail.com](mailto:kishoresundaraj8@gmail.com)  
-- ⚡ **Fun fact:** I'm passionate about learning cutting-edge technologies!
+* **🔭 Currently working on:** Cloud Projects  
+* **🌱 Learning:** AWS, Web Development  
+* **📫 Reach me at:** [kishoresundaraj8@gmail.com](mailto:kishoresundaraj8@gmail.com)  
+* **⚡ **Fun fact:** I'm passionate about learning cutting-edge technologies!
 
 ---
 
@@ -49,10 +49,10 @@
 
 ### 🌟 Projects:
 
-- 🌐 [Hosting my portfolio in AWS](https://kishores-portfolio.s3.eu-north-1.amazonaws.com/index.html)  
-- 🎬 [Netflix Clone](https://netflix-project-henna.vercel.app/)  
-- 🌐 [React Portfolio](https://shyamrangasamy.vercel.app/)  
-- 🧮 [Expense Calculator](https://expensecalci.vercel.app/)  
+- 🌐 [Hosting my portfolio in AWS](https://kishores-portfolio.s3.eu-north-1.amazonaws.com/index.html)  
+- 🎬 [Netflix Clone](https://netflix-project-henna.vercel.app/)  
+- 🌐 [React Portfolio](https://shyamrangasamy.vercel.app/)  
+- 🧮 [Expense Calculator](https://expensecalci.vercel.app/)  
 - 🏡 [Rentify (Rental app)](https://rentify-tau-virid.vercel.app/)
 
 ---
@@ -60,15 +60,15 @@
 ### 📈 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kishorexlr8&show_icons=true&theme=tokyonight" alt="kishorexlr8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kishorexlr8&show_icons=true&theme=tokyonight" alt="kishorexlr8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishorexlr8&theme=tokyonight" alt="kishorexlr8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishorexlr8&theme=tokyonight" alt="kishorexlr8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kishorexlr8&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kishorexlr8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kishorexlr8&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kishorexlr8" />
 </p>
 
 ---
@@ -76,7 +76,7 @@
 ### 📫 Connect with me:
 
 <p align="center">
-  <a href="https://linkedin.com/in/kishore1607" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
-  </a>
+  <a href="https://linkedin.com/in/kishore1607" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
 </p>
