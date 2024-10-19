@@ -12,9 +12,9 @@ Here's a GitHub README profile template based on your document:
 
 ### 👨‍💻 About Me:
 
-- 🔭 I’m currently working on **Netflix Clone**  
-- 🌱 I’m currently learning **AWS, Firebase, MERN Stack**  
-- 💬 Ask me about **Web Development, AWS, React, Firebase**  
+- 🔭 I’m currently working on **Cloud Projects**  
+- 🌱 I’m currently learning **AWS, Web Deveopment**  
+ 
 - 📫 How to reach me: **kishoresundaraj8@gmail.com**  
 - ⚡ Fun fact: I'm passionate about learning cutting-edge technologies!
 
