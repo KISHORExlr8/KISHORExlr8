@@ -95,10 +95,17 @@
 
 ---
 
-### 📫 Connect with me:
+### 📫 Socials:
 
 <p align="center">
   <a href="https://linkedin.com/in/kishore1607" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
+  <a href="https://instagram.com/kishore_sundaraj_" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
+  </a>
+  <a href="https://reddit.com/user/kishorexlr8" target="_blank">
+    <img src="https://img.shields.io/badge/-Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge" alt="Reddit" />
+  </a>
 </p>
+
