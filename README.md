@@ -1,4 +1,4 @@
-Here's a GitHub README profile template based on your document:
+
 
 
 <h1 align="center">Hi there 👋, I'm Kishore Sundaraj</h1>
@@ -57,9 +57,11 @@ Here's a GitHub README profile template based on your document:
 
 ### 🌟 Projects:
 
-- 🌐 [Portfolio Website](https://kishores-portfolio.s3.eu-north-1.amazonaws.com/index.html)  
+- 🌐 [Hosting my portfolio in AWS](https://kishores-portfolio.s3.eu-north-1.amazonaws.com/index.html)  
 - 🎬 [Netflix Clone](https://netflix-project-henna.vercel.app/)  
-
+- 🌐 [React Portfolio](https://shyamrangasamy.vercel.app/)  
+- 🧮 [Expense Calculator](https://expensecalci.vercel.app/)  
+- 🏡 [Rentify(Rental app)](https://rentify-tau-virid.vercel.app/)
 ---
 
 ### 📈 GitHub Stats:
