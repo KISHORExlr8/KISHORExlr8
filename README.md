@@ -2,8 +2,11 @@
 <h3 align="center">🚀 A Passionate Full Stack Developer & Cloud Enthusiast</h3>
 
 <p align="center">
-  <img src="[https://www.google.com/imgres?q=cool%20developer%20pics%20doodle&imgurl=https%3A%2F%2Fcdn.vectorstock.com%2Fi%2Fpreview-1x%2F15%2F08%2Fexpert-developer-vector-46441508.jpg&imgrefurl=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vectors%2Fdeveloper-doodle-vectors&docid=jJXzNhj8t5rRxM&tbnid=9mUM-bBGP6l0cM&vet=12ahUKEwi_prqXypqJAxU_zzgGHdDyGKQQM3oECEoQAA..i&w=250&h=250&hcb=2&ved=2ahUKEwi_prqXypqJAxU_zzgGHdDyGKQQM3oECEoQAA](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeHiFCFEgvUafICShqUoD2Z0cG6UdYnleAxQ&s)" alt="" width="200"/>
+  <img src="hacker.gif" alt="Hacker GIF" width="200"/>
 </p>
+
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kishorexlr8&label=Profile%20views&color=0e75b6&style=flat" alt="kishorexlr8" />
